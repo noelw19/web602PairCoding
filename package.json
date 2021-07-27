@@ -1,0 +1,20 @@
+{
+  "name": "web602PairCoding",
+  "version": "1.0.0",
+  "description": "Me and Bob",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelw19/web602PairCoding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noelw19/web602PairCoding/issues"
+  },
+  "homepage": "https://github.com/noelw19/web602PairCoding#readme"
+}
